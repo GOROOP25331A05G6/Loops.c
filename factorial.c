@@ -15,6 +15,6 @@ int main()
     }
 
     printf("Factorial = %ld", fact);
-
+ printf(“\n25331A05G6\n”);
     return 0;
 }
